@@ -14,7 +14,8 @@ databases. Thus, Insights users may often see a need to dump data from
 their Insights tables into a relational DB to run various single-use
 queries or data mining exercises. insights2csv.py allows easy extraction
 of Insights data into a CSV file, from where it can be imported into
-the DB of your choice. 
+the DB of your choice. You can also use this to get Insights data into
+Excel.
 
 If you're on OS-X, I'd strongly recommend looking at [Postgres.app](http://postgresapp.com/)
 for analyzing your New Relic data. It lets you get a Postgres DB
@@ -98,3 +99,13 @@ Questions/Comments?
 If you like insights2csv please star this repo so I'll know folks are using it.
 Also, be sure to +1 any of the github issues you'd like me to work on, or add
 your own suggestions. Feel free to email me directly as well with any feedback.
+
+
+SEO Keywords
+-------------------
+New Relic Insights Excel
+Convert to Excel
+Download New Relic Insights to database
+New Relic Insights Python SDK
+Insights API conversion
+Paginate new relic insights data
