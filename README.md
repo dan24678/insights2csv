@@ -92,3 +92,9 @@ This is the name of the CSV that will be produced
 ### LOG\_FILENAME
 The name of the logfile. %s will be the timestamp
 
+
+Questions/Comments?
+-------------------
+If you like insights2csv please star this repo so I'll know folks are using it.
+Also, be sure to +1 any of the github issues you'd like me to work on, or add
+your own suggestions. Feel free to email me directly as well with any feedback.
